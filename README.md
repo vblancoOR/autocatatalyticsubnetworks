@@ -28,13 +28,13 @@ In folder "data" we provide different files with stochiometric matrices for CCRN
 
 **Usage** (example available in the Jupyter notebook _autocatalytic_subnetworks_example_ 
 
-#Load the library
+# Load the library
 from autocatalytic_cores_lib import
 
-#Load the dataset of 1-constituent CCRN with 4 species (files for more species are available in data folder)
+# Load the dataset of 1-constituent CCRN with 4 species (files for more species are available in data folder)
 SM=np.loadtxt("data/ccrn_n4.txt", dtype='i', delimiter=' ')
 
-#Compute minimal autocatalytic Subnetworks for that network
+# Compute minimal autocatalytic Subnetworks for that network
 df = ComputeAutocatalyticCores(SM, "AC_n4.xlsx")
 
 
