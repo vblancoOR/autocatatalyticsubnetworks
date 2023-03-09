@@ -1,0 +1,2 @@
+# autocatatalyticsubnetworks
+Computation of autocatalytic subnetworks
