@@ -1,0 +1,23 @@
+#Species:  3 # Reactions:  6
+**** Sol 1: 2 reactions
+	 #Species:  2 #FoodSet:  1 #WasteSet:  0 #ExtraMembersSet:  0 #Reactions:  2
+	 Food Set ['C']
+	 Waste Set []
+	 Extra M in AC:  []
+	 Species in AC:  ['C_2', 'C_3']
+	 Reactions in AC:  ['R3', 'R5']
+	 Flow:  [0.03, 0.02] --> Production:  [0.01, 0.01]
+			 R3: C+C_2 ->C_3
+			 R5: C+C_3 ->2C_2
+	 - CPU Time: 0.12 secs
+**** Sol 2: 2 reactions
+	 #Species:  2 #FoodSet:  1 #WasteSet:  0 #ExtraMembersSet:  0 #Reactions:  2
+	 Food Set ['C_3']
+	 Waste Set []
+	 Extra M in AC:  []
+	 Species in AC:  ['C', 'C_2']
+	 Reactions in AC:  ['R2', 'R5']
+	 Flow:  [1.0, 0.5] --> Production:  [1.5, 0.0]
+			 R2: C_2 ->2C
+			 R5: C+C_3 ->2C_2
+	 - CPU Time: 0.00 secs
