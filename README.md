@@ -5,9 +5,9 @@ File **autocatalytic_cores_lib** contains all the functions for the computation 
 
 Requirements:
 
-- pandas: to export results to excel files and handle data frames
-- numpy: to manipulate matrices
-- gurobipy: for solving the optimization problems (it can be downloaded and installed from www.gurobi.com)
+- *pandas*: to export results to excel files and handle data frames
+- *numpy*: to manipulate matrices
+- *gurobipy*: for solving the optimization problems (it can be downloaded and installed from www.gurobi.com)
 
 Functions:
 
