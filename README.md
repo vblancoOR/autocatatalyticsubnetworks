@@ -3,7 +3,7 @@
 
 Algorithm developed in:
 
-Gagrani, P., Blanco, V., Smith, E., & Baum, D. (2024). Polyhedral geometry and combinatorics of an autocatalytic ecosystem. Journal of Mathematical Chemistry, 62(5), 1012-1078.
+Gagrani, P., Blanco, V., Smith, E., & Baum, D. (2024). Polyhedral geometry and combinatorics of an autocatalytic ecosystem. Journal of Mathematical Chemistry, 62(5), 1012-1078. https://link.springer.com/article/10.1007/s10910-024-01576-x
 
 
 __________________________
