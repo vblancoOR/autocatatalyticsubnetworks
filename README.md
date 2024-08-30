@@ -1,4 +1,4 @@
-# The geometry and combinatorics of an autocatalytic ecology in chemical and cluster chemical reaction networks
+# Polyhedral geometry and combinatorics of an autocatalytic ecosystem
 ## Python Codes for the Generation of Minimal Autocatalytic Subnetworks
 
 Algorithm developed in:
